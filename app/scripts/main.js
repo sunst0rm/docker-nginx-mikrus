@@ -1,0 +1,2 @@
+
+alert("Welcome to Kittyland");

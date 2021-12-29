@@ -1,0 +1,63 @@
+
+p{ font-size: large;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+h1{
+    font-size: 33px;
+    color: tomato;
+
+}
+
+div{
+    width: 100%;
+    background-color:snow;
+}
+
+h2{
+    display: block;
+    font-size: larger;
+    color: tomato;
+}
+li:hover {
+    color:red;
+}
+li:active{
+    color: blue;
+}
+
+#navigation:hover, #kitties :hover, #about-us:hover{
+    background-color: cornsilk
+}
+
+h1{
+    font-size: 48px;
+}
+
+h2{
+    font-size: 32px;
+}
+
+p{
+    font-size: 16px;
+}
+
+*{
+    font-family:Arial, Helvetica, sans-serif
+}
+.contact-method :hover{
+    color:red;
+}
+.contact-method :active{
+    color: blue;
+}
+.contact-method :visited{
+    color: green
+}
+#header {
+    text-transform: capitalize;
+}
